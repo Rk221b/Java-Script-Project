@@ -1,0 +1,29 @@
+body{
+    background-color: gainsboro;
+}
+body>h1{
+    text-align: center;
+    font-size: 3em;
+    padding-top: 55px;
+    color: crimson;
+}
+
+body>#op{
+    color: black;
+    border: solid;
+    padding: 5px 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    background-color: olive;
+}
+
+body>section{
+    
+    color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    background-color: grey;
+    
+}
